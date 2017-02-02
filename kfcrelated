@@ -1,0 +1,33 @@
+{
+  "related":[
+    {
+         "rid":"01",
+          "rlogo":"https://s28.postimg.org/8o6luzd99/kfc.jpg",
+          "rtitle":"Special Discount Sales",
+          "issuddate":"2017-02-1",
+          "startdate":"2017-02-20",
+          "enddate":"2017-03-10",
+           "rname":"KFC corporation"
+     },
+     {
+        "rid":"02",
+        "rlogo":"https://s28.postimg.org/8o6luzd99/kfc.jpg",
+        "rtitle":"Monthly Discount Sales",
+        "issuddate":"2017-02-1",
+          "startdate":"2017-02-15",
+          "enddate":"2017-03-1",
+           "rname":"KFC corporation"
+        
+     },
+   {
+     "rid":"03",
+     "rlogo":"https://s28.postimg.org/8o6luzd99/kfc.jpg",
+     "rtitle":"Monthly Discount Sales",
+      "issuddate":"2017-01-31",
+      "startdate":"2017-02-1",
+       "enddate":"2017-02-12",
+        "rname":"KFC corporation"
+   }
+   ]
+   }
+   
